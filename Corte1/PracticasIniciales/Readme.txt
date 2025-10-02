@@ -1,1 +1,1 @@
-Esta carpeta es para los proyectos de la primera semana
+Esta carpeta es para los proyectos del primer corte
